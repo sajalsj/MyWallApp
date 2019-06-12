@@ -10,24 +10,24 @@ It is a beautiful Wallpaper Android App using Retrofit, GSON, Realm, ButterKnife
 ![d](https://user-images.githubusercontent.com/38429893/59338765-a0567000-8d20-11e9-97ae-7aee9b6c9bb6.png)
 
 Libraries used :-
-CircularImageView
- implementation 'de.hdodenhof:circleimageview:3.0.0'
+ CircularImageView            
+ implementation 'de.hdodenhof:circleimageview:3.0.0'                       
  
- Retrofit
- implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+ Retrofit                                                 
+ implementation 'com.squareup.retrofit2:retrofit:2.5.0'                                       
  
- okHTTP 
+ okHTTP                   
  implementation 'com.squareup.okhttp3:okhttp:3.9.1'
- implementation 'com.squareup.okhttp3:logging-interceptor:3.9.1'
+ implementation 'com.squareup.okhttp3:logging-interceptor:3.9.1'       
  
- Gson
+ Gson                 
  implementation 'com.google.code.gson:gson:2.8.5'
  Gson convertor
- implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+ implementation 'com.squareup.retrofit2:converter-gson:2.5.0'                  
  
- Glide
- implementation 'com.github.bumptech.glide:glide:4.9.0'
+ Glide            
+ implementation 'com.github.bumptech.glide:glide:4.9.0'       
  
- ButterKnife
+ ButterKnife               
  implementation 'com.jakewharton:butterknife:8.5.1'
   annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
